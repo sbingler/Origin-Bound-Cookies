@@ -1,4 +1,4 @@
-# Origin Bound Cookies (by default)
+# Origin-Bound Cookies (by default)
 
 ## tl;dr
 
