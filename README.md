@@ -1,4 +1,8 @@
-# Origin-Bound-Cookies
+# Origin-Bound Cookies (by default)
+
+## tl;dr
+
+We propose to make cookies bound by port and scheme, in addition to the host that set them. As an [opt-out](#opt-out), we propose that the `domain` attribute be used as a mechanism for relaxing requirements on port matching (in addition to its existing behavior of relaxing same-host matching for subdomains).
 
 ## Author
 * bingler@chromium.org
